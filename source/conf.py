@@ -22,7 +22,7 @@ copyright = '2021, HenryZeng'
 author = 'HenryZeng'
 
 # The full version, including alpha/beta/rc tags
-release = 'v1.1.6-stable'
+release = 'v2.0.0-stable'
 
 
 # -- General configuration ---------------------------------------------------
