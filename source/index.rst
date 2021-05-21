@@ -1,20 +1,20 @@
-.. Cardinal documentation master file, created by
-   sphinx-quickstart on Fri Mar 12 11:21:01 2021.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Cardinal
+=========
 
-Welcome to Cardinal's documentation!
-====================================
+.. note::
+    Cardinal取名自《刀剑神域》中的中枢程序，是一个可以使用基于事件触发控制虚拟人物的桌面交互式程序。
+
+
+
+未来我们打算实现的功能有（包括但不限于）：
+
+.. 开放被外部调用的api
+.. 提供自编插件的能力
+.. 加强对基础组件的支持，实现更多丰富的功能
+.. 支持如挣扎动画，走动，等功能
+.. 提供图形化工具，方便图包制作
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+    :maxdepth: 1
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+    dev/index
